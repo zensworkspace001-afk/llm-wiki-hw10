@@ -6,8 +6,9 @@
 採「先討論、後生成」：先討論要收什麼（夜市定義與歷史、士林夜市、蚵仔煎／臭豆腐／珍奶的故事）、不收什麼（店家推薦、價格、無出處的數字），確認後才開始 ingest。
 共 ingest 6 篇：維基百科 ×3（夜市、台灣料理、士林夜市）、遠見雜誌（蚵仔煎）、Taipei Times（珍奶起源）、食力 foodNEXT（臭豆腐科學）。
 
-二、LLM Wiki 連結：〔貼上連結〕
-三、教學 HTML 簡報連結：〔貼上連結〕
+二、LLM Wiki 連結：https://github.com/zensworkspace001-afk/llm-wiki-hw10/tree/main/wiki
+（目錄頁：https://github.com/zensworkspace001-afk/llm-wiki-hw10/blob/main/wiki/index.md；完整專案含檢查器與流程圖：https://github.com/zensworkspace001-afk/llm-wiki-hw10）
+三、教學 HTML 簡報連結：https://zensworkspace001-afk.github.io/llm-wiki-hw10/slides/
 簡報共 13 張：學習目標 → 夜市是什麼 → 夜市歷史 → 士林夜市 → 蚵仔煎（做法、事實 vs 傳說）→ 臭豆腐為什麼臭 → 珍奶發明之爭 → 其他小吃 → 隨堂測驗 → 重點回顧 → 資料來源。每張左下角都標示依據的 Wiki 頁與來源。
 
 四、loop / graph 設計
